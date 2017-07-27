@@ -1,0 +1,2 @@
+CIRCLE=cn.whitecao.reflect.factroy.Circle
+SQUARE=cn.whitecao.reflect.factroy.Square
